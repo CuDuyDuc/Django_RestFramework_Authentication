@@ -1,0 +1,28 @@
+Django_RestFramework_API/
+│
+├── authentication/
+│   ├── __pycache__/
+│   ├── migrations/
+│   │   └── __init__.py
+│   ├── __init__.py
+│   ├── admin.py
+│   ├── apps.py
+│   ├── models.py
+│   ├── renderers.py
+│   ├── serializers.py
+│   ├── tests.py
+│   ├── urls.py
+│   ├── utils.py
+│   └── views.py
+│
+├── django_project/
+│   ├── __pycache__/
+│   ├── __init__.py
+│   ├── asgi.py
+│   ├── settings.py
+│   ├── urls.py
+│   └── wsgi.py
+│
+├── .env
+├── db.sqlite3
+└── manage.py
